@@ -1,0 +1,8 @@
+CREATE TABLE `b_search_test` (
+        `ID` INT(11) NOT NULL AUTO_INCREMENT,
+        `TITLE` VARCHAR(65536) NOT NULL,
+        `CONTENT` TEXT NOT NULL,
+        `TYPE` VARCHAR(65536) NOT NULL,
+        `COUNT` INT(11) DEFAULT 0,
+        PRIMARY KEY(ID)
+    );

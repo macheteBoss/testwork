@@ -1,0 +1,22 @@
+<?php
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_NAME"] 		 	   = "Настройки";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_COMMON"] 	 	   = "Общие";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_SWITCH_ON"]  	   = "Включить:";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_APPEARANCE"] 	   = "Внешний вид";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_WIDTH"] 	 	   = "Ширина формы (пикселей):";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_RADIUS"] 	 	   = "Радиус формы (пикселей):";
+$MESS["ROMAN_SEARCH_OPTIONS_INPUT_HEIGHT"] 	 	   = "Высота поля (пикселей):";
+$MESS["ROMAN_SEARCH_OPTIONS_BUTTON_COLOR"] 	 	   = "Цвет кнопки:";
+$MESS["ROMAN_SEARCH_OPTIONS_TEXT_COLOR"] 	 	   = "Цвет текста кнопки:";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_POSITION_ON_PAGE"] = "Положение на странице";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_SIDE"]			   = "Расположение формы:";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_SIDE_LEFT"]		   = "Слева";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_SIDE_CENTER"]	   = "Центр";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_SIDE_RIGHT"]	   = "Справа";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_ACTION"]	   	   = "Доступность";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_FUNC"]	   	       = "Опции поиска:";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_FUNC_IMG"]	   	   = "Картинки";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_FUNC_TEXT"]	   	   = "Текст";
+$MESS["ROMAN_SEARCH_OPTIONS_TAB_FUNC_LINK"]	   	   = "Ссылки";
+$MESS["ROMAN_SEARCH_OPTIONS_INPUT_APPLY"]   = "Применить";
+$MESS["ROMAN_SEARCH_OPTIONS_INPUT_DEFAULT"] = "По умолчанию";
