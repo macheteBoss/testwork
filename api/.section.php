@@ -1,0 +1,6 @@
+<?
+$sSectionName = "АПИ";
+$arDirProperties = Array(
+
+);
+?>
