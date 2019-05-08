@@ -12,12 +12,12 @@ if (CModule::IncludeModule("roman.search")){
     }
     $apiName = substr($buf, 0, $count);
 
-    try {
+    if($apiName != "") {
         $run = new Roman\Search\Route;
         $buf = $run::marsh($apiName);
         echo $buf->run();
-    } catch (Exception $e) {
-        echo json_encode(Array('error' => $e->getMessage(), 'code' => $e->getCode()));
+    } else {
+        echo "Доступ на страницу закрыт!";
     }
 }
 
